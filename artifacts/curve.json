@@ -1,0 +1,188 @@
+[
+ {
+  "episode": 0,
+  "mate_rate": 0.002,
+  "optimal_rate": 0.002,
+  "mean_excess_moves": 0.0
+ },
+ {
+  "episode": 10000,
+  "mate_rate": 0.038,
+  "optimal_rate": 0.012,
+  "mean_excess_moves": 14.263157894736842
+ },
+ {
+  "episode": 20000,
+  "mate_rate": 0.808,
+  "optimal_rate": 0.136,
+  "mean_excess_moves": 12.408415841584159
+ },
+ {
+  "episode": 30000,
+  "mate_rate": 0.99,
+  "optimal_rate": 0.322,
+  "mean_excess_moves": 4.941414141414142
+ },
+ {
+  "episode": 40000,
+  "mate_rate": 0.998,
+  "optimal_rate": 0.484,
+  "mean_excess_moves": 2.4248496993987976
+ },
+ {
+  "episode": 50000,
+  "mate_rate": 0.998,
+  "optimal_rate": 0.57,
+  "mean_excess_moves": 1.6733466933867736
+ },
+ {
+  "episode": 60000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.658,
+  "mean_excess_moves": 1.178
+ },
+ {
+  "episode": 70000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.708,
+  "mean_excess_moves": 0.83
+ },
+ {
+  "episode": 80000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.768,
+  "mean_excess_moves": 0.602
+ },
+ {
+  "episode": 90000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.804,
+  "mean_excess_moves": 0.536
+ },
+ {
+  "episode": 100000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.786,
+  "mean_excess_moves": 0.424
+ },
+ {
+  "episode": 110000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.856,
+  "mean_excess_moves": 0.352
+ },
+ {
+  "episode": 120000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.852,
+  "mean_excess_moves": 0.23
+ },
+ {
+  "episode": 130000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.834,
+  "mean_excess_moves": 0.272
+ },
+ {
+  "episode": 140000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.85,
+  "mean_excess_moves": 0.264
+ },
+ {
+  "episode": 150000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.896,
+  "mean_excess_moves": 0.204
+ },
+ {
+  "episode": 160000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.912,
+  "mean_excess_moves": 0.17
+ },
+ {
+  "episode": 170000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.916,
+  "mean_excess_moves": 0.164
+ },
+ {
+  "episode": 180000,
+  "mate_rate": 0.998,
+  "optimal_rate": 0.922,
+  "mean_excess_moves": 0.15030060120240482
+ },
+ {
+  "episode": 190000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.92,
+  "mean_excess_moves": 0.116
+ },
+ {
+  "episode": 200000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.914,
+  "mean_excess_moves": 0.12
+ },
+ {
+  "episode": 210000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.902,
+  "mean_excess_moves": 0.156
+ },
+ {
+  "episode": 220000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.886,
+  "mean_excess_moves": 0.19
+ },
+ {
+  "episode": 230000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.938,
+  "mean_excess_moves": 0.106
+ },
+ {
+  "episode": 240000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.934,
+  "mean_excess_moves": 0.1
+ },
+ {
+  "episode": 250000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.97,
+  "mean_excess_moves": 0.046
+ },
+ {
+  "episode": 260000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.95,
+  "mean_excess_moves": 0.068
+ },
+ {
+  "episode": 270000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.952,
+  "mean_excess_moves": 0.068
+ },
+ {
+  "episode": 280000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.92,
+  "mean_excess_moves": 0.122
+ },
+ {
+  "episode": 290000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.978,
+  "mean_excess_moves": 0.028
+ },
+ {
+  "episode": 300000,
+  "mate_rate": 1.0,
+  "optimal_rate": 0.98,
+  "mean_excess_moves": 0.02
+ }
+]
